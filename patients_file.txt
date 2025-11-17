@@ -1,0 +1,10 @@
+Kanna, Smith, 20, 123450, 123458
+Jane, clark, 25, 9876543210,54321
+Michael, Johnson, 40, 4567890123, 67890
+Emily, smith, 35, 8901234567, 90123
+Daniel, Wilson, 50, 2345678901, 23456
+Fanny, Smith, 50, 12223450, 12342258
+Olivia, Clark, 28, 7890123456, 78901
+Ethan, Moore, 45, 0123456789, 01234
+Ava, Lee, 32, 5678901234, 56789
+Elon,Musk,51,876363,MA RS
